@@ -1,0 +1,40 @@
+body {
+	font-family: Georgia, serif;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+}
+
+dl, dt, dd {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 4em;
+	font-family: "league-gothic", "helvetica neue condensed", sans-serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+
+dt {
+	font-variant: small-caps;
+	letter-spacing: 0.065em;
+	margin-bottom: 0.5em;
+}
+
+dd {
+	font-style: italic;
+	margin-bottom: 1em;
+}
+
+dd:after {
+	content: "*";
+	display: block;
+	margin: 0.5em auto;
+}
+
+
+
