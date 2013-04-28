@@ -11,11 +11,9 @@ dl, dt, dd {
 }
 
 h1 {
-	font-size: 4em;
-	font-family: "league-gothic", "helvetica neue condensed", sans-serif;
 	font-weight: normal;
-	text-transform: uppercase;
-	margin-bottom: 0;
+	font-style: italic;
+	margin-bottom: 1em;
 }
 
 
